@@ -1,5 +1,5 @@
 name        = UiB base theme
-description = One them to rule them all, One theme to bind them, One theme to bring them all and in the darkness bind them.
+description = One theme to rule them all, One theme to bind them, One theme to bring them all and in the darkness bind them.
 screenshot  = screenshot.png
 core        = 7.x
 base theme  = zen
